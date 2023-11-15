@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Наступна</string>
+    <string name="previous">Попередня</string>
+    <string name="refresh">Оновити</string>
+    <string name="close">Закрити</string>
+</resources>
